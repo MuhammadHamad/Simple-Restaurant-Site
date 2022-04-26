@@ -8,7 +8,7 @@ const Restaurant = () => {
         <div className="card">
           <div className="card-body">
             <span className="card-number card-circle subtle">1</span>
-            <span className="card-author subtle">Breakfast</span>
+            <span className="card-author subtle">Dinner</span>
             <h2 className="card-title">Maggi</h2>
             <span className="card-description subtle">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum aut
